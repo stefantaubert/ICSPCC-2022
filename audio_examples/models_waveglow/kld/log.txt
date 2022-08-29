@@ -1,0 +1,62 @@
+Entry 632
+Mean MCD: 37.18252208683614
+Mean PEN: 0.15298834898021008
+Mean MCD+PEN: 37.335510435816346
+The best seed was 1117 with an MCD of 34.02 and a PEN of 0.15506 -> 34.17164
+The worst seed was 1119 with an MCD of 41.26 and a PEN of 0.12175 -> 41.38464
+------
+Entry 1474
+Mean MCD: 36.419798581825525
+Mean PEN: 0.1860997118857702
+Mean MCD+PEN: 36.60589829371129
+The best seed was 1112 with an MCD of 34.83 and a PEN of 0.18407 -> 35.01509
+The worst seed was 1115 with an MCD of 38.51 and a PEN of 0.18231 -> 38.69020
+------
+Entry 1541
+Mean MCD: 39.88823768190433
+Mean PEN: 0.20260609258738227
+Mean MCD+PEN: 40.09084377449172
+The best seed was 1111 with an MCD of 36.94 and a PEN of 0.19506 -> 37.13485
+The worst seed was 1113 with an MCD of 42.96 and a PEN of 0.17633 -> 43.13220
+------
+Entry 1640
+Mean MCD: 40.92403255440059
+Mean PEN: 0.19429787352876615
+Mean MCD+PEN: 41.11833042792936
+The best seed was 1115 with an MCD of 37.07 and a PEN of 0.17553 -> 37.24256
+The worst seed was 1120 with an MCD of 45.80 and a PEN of 0.18378 -> 45.98039
+------
+Entry 1670
+Mean MCD: 41.53732503390105
+Mean PEN: 0.1963928176918446
+Mean MCD+PEN: 41.73371785159289
+The best seed was 1113 with an MCD of 39.37 and a PEN of 0.27152 -> 39.63679
+The worst seed was 1119 with an MCD of 43.70 and a PEN of 0.17153 -> 43.86854
+------
+Entry 1846
+Mean MCD: 37.46724632000024
+Mean PEN: 0.20245108219588537
+Mean MCD+PEN: 37.66969740219613
+The best seed was 1119 with an MCD of 35.43 and a PEN of 0.20972 -> 35.64190
+The worst seed was 1120 with an MCD of 40.91 and a PEN of 0.22753 -> 41.13912
+------
+Entry 1969
+Mean MCD: 36.426009259606545
+Mean PEN: 0.18521200189515732
+Mean MCD+PEN: 36.611221261501704
+The best seed was 1119 with an MCD of 33.33 and a PEN of 0.22393 -> 33.55201
+The worst seed was 1112 with an MCD of 38.86 and a PEN of 0.20135 -> 39.05649
+------
+Entry 2808
+Mean MCD: 34.42735707162169
+Mean PEN: 0.14605127929779296
+Mean MCD+PEN: 34.57340835091949
+The best seed was 1120 with an MCD of 32.59 and a PEN of 0.12329 -> 32.71735
+The worst seed was 1119 with an MCD of 36.57 and a PEN of 0.15301 -> 36.72636
+------
+Entry 7262
+Mean MCD: 34.22332905138634
+Mean PEN: 0.1967931118494608
+Mean MCD+PEN: 34.420122163235796
+The best seed was 1119 with an MCD of 32.67 and a PEN of 0.20652 -> 32.87210
+The worst seed was 1117 with an MCD of 35.81 and a PEN of 0.22574 -> 36.03378
