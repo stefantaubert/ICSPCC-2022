@@ -1,11 +1,14 @@
 # A Comparison of Text Selection Algorithms for Sequence-to-Sequence Neural TTS
 
-*By Stefan Taubert, Stefan Kahl, Danny Kowerko and Maximilian Eibl*
+*By [Stefan Taubert](https://github.com/stefantaubert), [Jasmin Sternkopf](https://github.com/jasminsternkopf), [Stefan Kahl](https://github.com/kahst) and Maximilian Eibl*
+
+## Introduction
 
 In this repository, supplementary material to our paper can be found:
 
 - nine audio examples for each model
 - detailed results which were presented in the figures and tables
+- experimental setup
 
 ## Audio examples
 
@@ -60,4 +63,9 @@ We included detailed results which were presented in the each figure and table:
 ## Miscellaneous
 
 The validation set can be found in [`misc/valset.csv`](misc/valset.csv).
+
 In [`appendix.pdf`](appendix.pdf) training parameters and our experimental setup can be found.
+
+## Acknowledgments
+
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – Project-ID 416228727 – CRC 1410
